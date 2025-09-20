@@ -15,8 +15,8 @@ A smart Chrome extension that helps sourcing professionals generate optimized Go
 - 🎯 Adjust **search precision** (souple, large)
 - 📍 Advanced location filtering:
   - **Country selection** (France, Belgique)
-  - **Region-based filtering** (Régions in France, Régions in Belgique)
-  - **Department/Province selection** (Départements in France, Provinces in Belgique)
+  - **Region-based filtering** (Regions in France, Regions in Belgique)
+  - **Department/Province selection** (Departements in France, Provinces in Belgique)
   - **Commune/City input**
 - 🏷️ Interactive tag-based location selection with search functionality
 - ⚡ One-click **Google search opening** (new tab)
